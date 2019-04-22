@@ -1,0 +1,9 @@
+{
+    "note": "COPY THIS FILE to config-local.json to make it work",
+  "username": "{{{GITHUB USERNAME}}}",
+  "organization": "{{{ORGANIZATION NAME}}}",
+  "personal-access-token": "{{{YOUR PERSONAL ACCESS TOKEN HERE}}}",
+  "timezone": "America/New_York"
+
+
+}

@@ -1,0 +1,5 @@
+node_modules
+.idea
+.DS_Store
+repos.csv # derived file
+config-local.json # config file
