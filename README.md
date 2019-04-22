@@ -18,4 +18,5 @@ npm install
 
 Then run with `npm start`
 
+If it worked, you now have a `repos.csv` and `repos.json` file with all the info about your repos.
 
